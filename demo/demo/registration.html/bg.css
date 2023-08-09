@@ -1,0 +1,17 @@
+#box{
+    height: 200;
+    width: 200;
+    background-color:greenyellow 
+    justify-content:center;
+    align-item:center;
+}
+#sbox
+{
+     
+     height: 30px;
+     width: 30px;
+     margin: 10px;
+     position
+     background-color: burlywood;
+     
+    }
